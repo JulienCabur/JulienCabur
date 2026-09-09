@@ -5,20 +5,6 @@
 
 ---
 
-## 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/thomas-ruelle-b51231248/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tho.ruelle.20@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 - 🎓 **Education:** Master's in Computer Systems Architecture (Hénallux & UNamur) | Bachelor's in IT & Systems Security
 - 🏆 **CTF Player:** Finals CSCBE 2026 (12th/25), CyberWeek CTF (4th/19)
@@ -65,9 +51,14 @@
 
 ---
 
-## 📊 Stats
+## 🔗 Let's Connect
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=JulienCabur&data=followers,repositories,stars,commits&theme=carbon" alt="Profile Thomas Ruelle"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienCabur&border_radius=10&bg_color=323232&text_color=8A8B8B&title_color=ED6B21&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langages de Thomas"/>
+  <a href="https://www.linkedin.com/in/thomas-ruelle-b51231248/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tho.ruelle.20@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
