@@ -14,36 +14,46 @@
 
 ## 💻 My Tech Stack
 
+### 🛡️ Blue Teaming & DFIR
 <p align="center">
-  ### Blue Teaming & DFIR
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk">
   <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="ELK">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"><br>
-  
-  <!-- Network Security -->
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+</p>
+
+### 🌐 Network Security
+<p align="center">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
   <img src="https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense">
   <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN">
-  <img src="https://img.shields.io/badge/Palo_Alto-F04E23?style=for-the-badge" alt="Palo Alto"><br>
+  <img src="https://img.shields.io/badge/Palo_Alto-F04E23?style=for-the-badge" alt="Palo Alto">
+</p>
 
-  <!-- Scripting & Automation -->
+### 📜 Scripting & Automation
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"><br>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+</p>
 
-  <!-- Cloud & Virtualization -->
+### ☁️ Cloud & Virtualization
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware">
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox">
-  <img src="https://img.shields.io/badge/Vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant"><br>
+  <img src="https://img.shields.io/badge/Vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant">
+</p>
 
-  <!-- DevSecOps & CI/CD -->
+### ⚙️ DevSecOps & CI/CD
+<p align="center">
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
   <img src="https://img.shields.io/badge/GitLab_CI-181717?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI">
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat"><br>
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat">
+</p>
 
-  <!-- Red Teaming (Bonus) -->
+### ⚔️ Red Teaming
+<p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge" alt="Nmap">
   <img src="https://img.shields.io/badge/Metasploit-005571?style=for-the-badge" alt="Metasploit">
