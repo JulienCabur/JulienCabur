@@ -15,7 +15,7 @@
 ## 💻 My Tech Stack
 
 <p align="center">
-  <!-- Blue Teaming & DFIR -->
+  ### Blue Teaming & DFIR
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk">
   <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="ELK">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"><br>
