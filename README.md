@@ -1,6 +1,5 @@
 <div align="center">
   <h1>👋 Hi, I'm Thomas Ruelle !</h1>
-  <p>Cybersecurity Enthusiast | Blue Teaming & DFIR | Master's Student in Computer Systems Architecture</p>
 </div>
 
 ---
